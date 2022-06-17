@@ -1,0 +1,13 @@
+h2 {
+color: #d379ba;
+font-style: oblique;
+}
+
+.student-list__heading {
+color: #d379ba;
+font-style: oblique;
+}
+  
+.student-list {
+list-style-type: square;
+}
